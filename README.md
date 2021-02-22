@@ -11,7 +11,7 @@ npm install react-native-test-module
 ## Usage
 
 ```js
-import TestModule from "react-native-test-module";
+import TestModule from 'react-native-test-module';
 
 // ...
 
